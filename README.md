@@ -2,6 +2,7 @@
 A hobo game created for a university course project.
 
 Game is available to play at https://TrevorClarke.ca/projects/hoboGame
+
 Mirror: https://hobo-game.jackyly.ca/
 
 ## Contributions:
