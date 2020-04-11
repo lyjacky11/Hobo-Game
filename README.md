@@ -7,7 +7,7 @@ Mirror: https://hobo-game.jackyly.ca/
 
 ## Contributions:
 
-Trevor:
+[Trevor](https://github.com/trevor-clarke):
 - Contributed to the integration of Printer.js.
 - Helped develop all aspects of the Hobo game’s classes and functions.
 - Created and modified the image assets used in the game. These include the animated hobo images, the grass images, the cobblestone, the wooden planks, the darkness gradient, etc
@@ -22,7 +22,7 @@ Trevor:
 - Outlined and described the assumed engineering tasks associated with the user stories.
 - Assisted with the documentation of the Product Backlog as the various tasks were completed.
 
-Seyon:
+[Seyon](https://github.com/seyon123):
 - Contributed and helped develop code and functionality for the game
 - Added functionality to the game that added images to be displayed
 - Helped with some of the logical components of the game.
@@ -34,7 +34,7 @@ Seyon:
 - Researched how to do product backlog, Test report, and results report
 - Helped format and structure the content in deliverable
 
-Jacky:
+[Jacky](https://github.com/lyjacky11):
 - Contributed to the development of the hobo and train logic of the game
 - Helped with the creation and integration of the classes and functions
 - Tested and recorded some of the experimental analysis results in the Results Report
@@ -45,7 +45,7 @@ Jacky:
 - Researched ways to implement the engineering tasks required for the game
 - Formatted and contributed to the content of Product Backlog, Test Report, and Results Report
 
-Hamdan:
+[Hamdan](https://github.com/hbskhan):
 - Contributed to Test Report Document. 
 - Specifically coming up with test cases and executing them while recording findings.
 - Contributed to the Defect report, detailing errors in-game and writing steps to replicate and resolve issues in full detail.
@@ -55,7 +55,7 @@ Hamdan:
 - Assisted with Product backlog by figuring out Engineering Tasks from User stories.
 - Work on refactoring various functions within the Main and Helper files.
 
-Leslie: 
+[Leslie](https://github.com/LeslieWen): 
 - Created, researched and formatted the Test Report.
 - Came up with priorities and user stories in the Product Backlog
 - Wrote documentation regarding function descriptions in the test report
@@ -65,7 +65,7 @@ Leslie:
 - Collected defects and put them into the defect report.
 
 
-Jawwad: 
+[Jawwad](https://github.com/JawwadK): 
 - Created and Formatted Product Backlog
 - Assisted in creating calculations associated with the theoretical analysis’ in the Results report
 - Provided experimental data used in conjunction with theoretical estimations in the Results report
